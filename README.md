@@ -1,5 +1,4 @@
-Stagecraft
-==========
+# Theatertechniek
 
 These stagecraft videos are created by Richel Bilderbeek as course material for the course 'Stagecraft'.
 
@@ -8,6 +7,12 @@ Originally the movies were shot in WMV. Goals of this project is
  * add the license to the movie
 
 The movies are licensed under CC-BY-NC-SA, which is not yet explicitly visible in the movies.
+
+## Videos
+
+ * [De Drie Theaterwetten](https://github.com/richelbilderbeek/DeDrieTheaterwetten)
+
+## Conversie
 
 The conversion from WMV to OGV tried (but with terrible results):
 <code>
