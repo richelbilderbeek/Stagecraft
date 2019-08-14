@@ -1,5 +1,10 @@
 # Theatertechniek
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/theatertechniek.svg?branch=master)](https://travis-ci.org/richelbilderbeek/theatertechniek)
+`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/theatertechniek.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/theatertechniek)
+
 These stagecraft videos are created by Richel Bilderbeek as course material for the course 'Stagecraft'.
 
 Originally the movies were shot in WMV. Goals of this project is
